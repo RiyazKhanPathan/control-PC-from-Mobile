@@ -1,6 +1,14 @@
 # controlPCfromMobile
 Now control PC from Mobile without installing any application in your mobile.
 
+::::::::::::::::::: Requirements  :::::::::::
+
+pip install bottle
+
+pip install PyAutoGUI
+
+:::::::::::::::::::  USAGE  :::::::::::::::::::
+
 1. 🔗 this button will enable you to open links from your mobile to desktop.
 
 2.  Audio, Video, Docs will list out all available files in C:\users\path\to\user\profile\[Music,Videos,Documents].
