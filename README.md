@@ -9,7 +9,7 @@ pip install PyAutoGUI
 
 :::::::::::::::::::  UI   :::::::::::::::::::::
 
-![User Interface Image](https://github.com/RiyazKhanPathan/controlPCfromMobile/blob/main/ControlPCinLAN_UI.png?raw=true)
+![User Interface Image](https://github.com/RiyazKhanPathan/control-PC-from-Mobile/blob/main/ControlPCinLAN_UI.png?raw=true)
 
 :::::::::::::::::::  USAGE  :::::::::::::::::::
 
