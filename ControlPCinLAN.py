@@ -346,7 +346,7 @@ def action():
 				  </script>
 			'''
 	
-	elif cmd.__contains__("://") and cmd.startswith(("https","http","ftp")) :
+	elif cmd.__contains__("://") and cmd.lower().startswith(("https","http","ftp")) :
 		import webbrowser
 		webbrowser.open(cmd)
 		updateClicked(cmd)
