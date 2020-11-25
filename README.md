@@ -1,12 +1,15 @@
 # controlPCfromMobile
 Now control PC from Mobile without installing any application in your mobile.
 
-::::::::::::::::::: Requirements  :::::::::::
+::::::::::::::::::: Requirements  ::::::::::::
 
 pip install bottle
 
 pip install PyAutoGUI
 
+:::::::::::::::::::  UI   :::::::::::::::::::::
+
+![User Interface Image](https://github.com/RiyazKhanPathan/controlPCfromMobile/blob/main/image.jpg?raw=true)
 :::::::::::::::::::  USAGE  :::::::::::::::::::
 
 1. 🔗 this button will enable you to open links from your mobile to desktop.
