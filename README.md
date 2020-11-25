@@ -13,6 +13,10 @@ pip install PyAutoGUI
 
 :::::::::::::::::::  USAGE  :::::::::::::::::::
 
+      Connect your PC to Hotspot and Run ControlPCinLAN.py, 
+      Enter the IP Address and Port number that was prompted in your mobile browser or another PC connected locally.
+      
+
 1. 🔗 this button will enable you to open links from your mobile to desktop.
 
 2.  Audio, Video, Docs will list out all available files in C:\users\path\to\user\profile\[Music,Videos,Documents].
